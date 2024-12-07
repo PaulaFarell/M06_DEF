@@ -1,0 +1,976 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00000.png",
+                "type": "image",
+                "key": "BluePlantClosed_00000"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00001.png",
+                "type": "image",
+                "key": "BluePlantClosed_00001"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00002.png",
+                "type": "image",
+                "key": "BluePlantClosed_00002"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00003.png",
+                "type": "image",
+                "key": "BluePlantClosed_00003"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00004.png",
+                "type": "image",
+                "key": "BluePlantClosed_00004"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00005.png",
+                "type": "image",
+                "key": "BluePlantClosed_00005"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00006.png",
+                "type": "image",
+                "key": "BluePlantClosed_00006"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00007.png",
+                "type": "image",
+                "key": "BluePlantClosed_00007"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00008.png",
+                "type": "image",
+                "key": "BluePlantClosed_00008"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00009.png",
+                "type": "image",
+                "key": "BluePlantClosed_00009"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00010.png",
+                "type": "image",
+                "key": "BluePlantClosed_00010"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00011.png",
+                "type": "image",
+                "key": "BluePlantClosed_00011"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00012.png",
+                "type": "image",
+                "key": "BluePlantClosed_00012"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00013.png",
+                "type": "image",
+                "key": "BluePlantClosed_00013"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00014.png",
+                "type": "image",
+                "key": "BluePlantClosed_00014"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00015.png",
+                "type": "image",
+                "key": "BluePlantClosed_00015"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00016.png",
+                "type": "image",
+                "key": "BluePlantClosed_00016"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00017.png",
+                "type": "image",
+                "key": "BluePlantClosed_00017"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00018.png",
+                "type": "image",
+                "key": "BluePlantClosed_00018"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00019.png",
+                "type": "image",
+                "key": "BluePlantClosed_00019"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00020.png",
+                "type": "image",
+                "key": "BluePlantClosed_00020"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00021.png",
+                "type": "image",
+                "key": "BluePlantClosed_00021"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00022.png",
+                "type": "image",
+                "key": "BluePlantClosed_00022"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00023.png",
+                "type": "image",
+                "key": "BluePlantClosed_00023"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00024.png",
+                "type": "image",
+                "key": "BluePlantClosed_00024"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00025.png",
+                "type": "image",
+                "key": "BluePlantClosed_00025"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00026.png",
+                "type": "image",
+                "key": "BluePlantClosed_00026"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00027.png",
+                "type": "image",
+                "key": "BluePlantClosed_00027"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00028.png",
+                "type": "image",
+                "key": "BluePlantClosed_00028"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00029.png",
+                "type": "image",
+                "key": "BluePlantClosed_00029"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00030.png",
+                "type": "image",
+                "key": "BluePlantClosed_00030"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00031.png",
+                "type": "image",
+                "key": "BluePlantClosed_00031"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00032.png",
+                "type": "image",
+                "key": "BluePlantClosed_00032"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00033.png",
+                "type": "image",
+                "key": "BluePlantClosed_00033"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00034.png",
+                "type": "image",
+                "key": "BluePlantClosed_00034"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00035.png",
+                "type": "image",
+                "key": "BluePlantClosed_00035"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00036.png",
+                "type": "image",
+                "key": "BluePlantClosed_00036"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00037.png",
+                "type": "image",
+                "key": "BluePlantClosed_00037"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00038.png",
+                "type": "image",
+                "key": "BluePlantClosed_00038"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00039.png",
+                "type": "image",
+                "key": "BluePlantClosed_00039"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00040.png",
+                "type": "image",
+                "key": "BluePlantClosed_00040"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00041.png",
+                "type": "image",
+                "key": "BluePlantClosed_00041"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00042.png",
+                "type": "image",
+                "key": "BluePlantClosed_00042"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00043.png",
+                "type": "image",
+                "key": "BluePlantClosed_00043"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00044.png",
+                "type": "image",
+                "key": "BluePlantClosed_00044"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00045.png",
+                "type": "image",
+                "key": "BluePlantClosed_00045"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00046.png",
+                "type": "image",
+                "key": "BluePlantClosed_00046"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00047.png",
+                "type": "image",
+                "key": "BluePlantClosed_00047"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00048.png",
+                "type": "image",
+                "key": "BluePlantClosed_00048"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00049.png",
+                "type": "image",
+                "key": "BluePlantClosed_00049"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00050.png",
+                "type": "image",
+                "key": "BluePlantClosed_00050"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00051.png",
+                "type": "image",
+                "key": "BluePlantClosed_00051"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00052.png",
+                "type": "image",
+                "key": "BluePlantClosed_00052"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00053.png",
+                "type": "image",
+                "key": "BluePlantClosed_00053"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00054.png",
+                "type": "image",
+                "key": "BluePlantClosed_00054"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00055.png",
+                "type": "image",
+                "key": "BluePlantClosed_00055"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00056.png",
+                "type": "image",
+                "key": "BluePlantClosed_00056"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00057.png",
+                "type": "image",
+                "key": "BluePlantClosed_00057"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00058.png",
+                "type": "image",
+                "key": "BluePlantClosed_00058"
+            },
+            {
+                "url": "assets/Sprites/Tokens/BluePlantClosed_00059.png",
+                "type": "image",
+                "key": "BluePlantClosed_00059"
+            },
+            {
+                "url": "assets/Sprites/Particle/bubble_2.png",
+                "type": "image",
+                "key": "bubble_2"
+            },
+            {
+                "url": "assets/Sprites/Player/Run/Chara - BlueIdle00000.png",
+                "type": "image",
+                "key": "Chara - BlueIdle00000"
+            },
+            {
+                "url": "assets/Sprites/Player/Run/Chara - BlueIdle00001.png",
+                "type": "image",
+                "key": "Chara - BlueIdle00001"
+            },
+            {
+                "url": "assets/Sprites/Player/Run/Chara - BlueIdle00002.png",
+                "type": "image",
+                "key": "Chara - BlueIdle00002"
+            },
+            {
+                "url": "assets/Sprites/Player/Run/Chara - BlueIdle00003.png",
+                "type": "image",
+                "key": "Chara - BlueIdle00003"
+            },
+            {
+                "url": "assets/Sprites/Player/Run/Chara - BlueIdle00004.png",
+                "type": "image",
+                "key": "Chara - BlueIdle00004"
+            },
+            {
+                "url": "assets/Sprites/Player/Run/Chara - BlueIdle00005.png",
+                "type": "image",
+                "key": "Chara - BlueIdle00005"
+            },
+            {
+                "url": "assets/Sprites/Player/Run/Chara - BlueIdle00006.png",
+                "type": "image",
+                "key": "Chara - BlueIdle00006"
+            },
+            {
+                "url": "assets/Sprites/Player/Run/Chara - BlueIdle00007.png",
+                "type": "image",
+                "key": "Chara - BlueIdle00007"
+            },
+            {
+                "url": "assets/Sprites/Player/Run/Chara - BlueIdle00008.png",
+                "type": "image",
+                "key": "Chara - BlueIdle00008"
+            },
+            {
+                "url": "assets/Sprites/Player/Run/Chara - BlueIdle00009.png",
+                "type": "image",
+                "key": "Chara - BlueIdle00009"
+            },
+            {
+                "url": "assets/Sprites/Player/Run/Chara - BlueIdle00010.png",
+                "type": "image",
+                "key": "Chara - BlueIdle00010"
+            },
+            {
+                "url": "assets/Sprites/Player/Run/Chara - BlueIdle00011.png",
+                "type": "image",
+                "key": "Chara - BlueIdle00011"
+            },
+            {
+                "url": "assets/Sprites/Player/Run/Chara - BlueIdle00012.png",
+                "type": "image",
+                "key": "Chara - BlueIdle00012"
+            },
+            {
+                "url": "assets/Sprites/Player/Run/Chara - BlueIdle00013.png",
+                "type": "image",
+                "key": "Chara - BlueIdle00013"
+            },
+            {
+                "url": "assets/Sprites/Player/Run/Chara - BlueIdle00014.png",
+                "type": "image",
+                "key": "Chara - BlueIdle00014"
+            },
+            {
+                "url": "assets/Sprites/Player/Run/Chara - BlueIdle00015.png",
+                "type": "image",
+                "key": "Chara - BlueIdle00015"
+            },
+            {
+                "url": "assets/Sprites/Player/Run/Chara - BlueIdle00016.png",
+                "type": "image",
+                "key": "Chara - BlueIdle00016"
+            },
+            {
+                "url": "assets/Sprites/Player/Run/Chara - BlueIdle00017.png",
+                "type": "image",
+                "key": "Chara - BlueIdle00017"
+            },
+            {
+                "url": "assets/Sprites/Player/Run/Chara - BlueIdle00018.png",
+                "type": "image",
+                "key": "Chara - BlueIdle00018"
+            },
+            {
+                "url": "assets/Sprites/Player/Run/Chara - BlueIdle00019.png",
+                "type": "image",
+                "key": "Chara - BlueIdle00019"
+            },
+            {
+                "url": "assets/Sprites/Player/Idle/Chara_BlueWalk00000.png",
+                "type": "image",
+                "key": "Chara_BlueWalk00000"
+            },
+            {
+                "url": "assets/Sprites/Player/Idle/Chara_BlueWalk00001.png",
+                "type": "image",
+                "key": "Chara_BlueWalk00001"
+            },
+            {
+                "url": "assets/Sprites/Player/Idle/Chara_BlueWalk00002.png",
+                "type": "image",
+                "key": "Chara_BlueWalk00002"
+            },
+            {
+                "url": "assets/Sprites/Player/Idle/Chara_BlueWalk00003.png",
+                "type": "image",
+                "key": "Chara_BlueWalk00003"
+            },
+            {
+                "url": "assets/Sprites/Player/Idle/Chara_BlueWalk00004.png",
+                "type": "image",
+                "key": "Chara_BlueWalk00004"
+            },
+            {
+                "url": "assets/Sprites/Player/Idle/Chara_BlueWalk00005.png",
+                "type": "image",
+                "key": "Chara_BlueWalk00005"
+            },
+            {
+                "url": "assets/Sprites/Player/Idle/Chara_BlueWalk00006.png",
+                "type": "image",
+                "key": "Chara_BlueWalk00006"
+            },
+            {
+                "url": "assets/Sprites/Player/Idle/Chara_BlueWalk00007.png",
+                "type": "image",
+                "key": "Chara_BlueWalk00007"
+            },
+            {
+                "url": "assets/Sprites/Player/Idle/Chara_BlueWalk00008.png",
+                "type": "image",
+                "key": "Chara_BlueWalk00008"
+            },
+            {
+                "url": "assets/Sprites/Player/Idle/Chara_BlueWalk00009.png",
+                "type": "image",
+                "key": "Chara_BlueWalk00009"
+            },
+            {
+                "url": "assets/Sprites/Player/Idle/Chara_BlueWalk00010.png",
+                "type": "image",
+                "key": "Chara_BlueWalk00010"
+            },
+            {
+                "url": "assets/Sprites/Player/Idle/Chara_BlueWalk00011.png",
+                "type": "image",
+                "key": "Chara_BlueWalk00011"
+            },
+            {
+                "url": "assets/Sprites/Player/Idle/Chara_BlueWalk00012.png",
+                "type": "image",
+                "key": "Chara_BlueWalk00012"
+            },
+            {
+                "url": "assets/Sprites/Player/Idle/Chara_BlueWalk00013.png",
+                "type": "image",
+                "key": "Chara_BlueWalk00013"
+            },
+            {
+                "url": "assets/Sprites/Player/Idle/Chara_BlueWalk00014.png",
+                "type": "image",
+                "key": "Chara_BlueWalk00014"
+            },
+            {
+                "url": "assets/Sprites/Player/Idle/Chara_BlueWalk00015.png",
+                "type": "image",
+                "key": "Chara_BlueWalk00015"
+            },
+            {
+                "url": "assets/Sprites/Player/Idle/Chara_BlueWalk00016.png",
+                "type": "image",
+                "key": "Chara_BlueWalk00016"
+            },
+            {
+                "url": "assets/Sprites/Player/Idle/Chara_BlueWalk00017.png",
+                "type": "image",
+                "key": "Chara_BlueWalk00017"
+            },
+            {
+                "url": "assets/Sprites/Player/Idle/Chara_BlueWalk00018.png",
+                "type": "image",
+                "key": "Chara_BlueWalk00018"
+            },
+            {
+                "url": "assets/Sprites/Player/Idle/Chara_BlueWalk00019.png",
+                "type": "image",
+                "key": "Chara_BlueWalk00019"
+            },
+            {
+                "url": "assets/Sprites/Player/Jump/CharaWizardJump_00000.png",
+                "type": "image",
+                "key": "CharaWizardJump_00000"
+            },
+            {
+                "url": "assets/Sprites/Player/Jump/CharaWizardJump_00001.png",
+                "type": "image",
+                "key": "CharaWizardJump_00001"
+            },
+            {
+                "url": "assets/Sprites/Player/Jump/CharaWizardJump_00002.png",
+                "type": "image",
+                "key": "CharaWizardJump_00002"
+            },
+            {
+                "url": "assets/Sprites/Player/Jump/CharaWizardJump_00003.png",
+                "type": "image",
+                "key": "CharaWizardJump_00003"
+            },
+            {
+                "url": "assets/Sprites/Player/Jump/CharaWizardJump_00004.png",
+                "type": "image",
+                "key": "CharaWizardJump_00004"
+            },
+            {
+                "url": "assets/Sprites/Player/Jump/CharaWizardJump_00005.png",
+                "type": "image",
+                "key": "CharaWizardJump_00005"
+            },
+            {
+                "url": "assets/Sprites/Player/Jump/CharaWizardJump_00006.png",
+                "type": "image",
+                "key": "CharaWizardJump_00006"
+            },
+            {
+                "url": "assets/Sprites/Player/Jump/CharaWizardJump_00007.png",
+                "type": "image",
+                "key": "CharaWizardJump_00007"
+            },
+            {
+                "url": "assets/Terrain/Deco_1.png",
+                "type": "image",
+                "key": "Deco_1"
+            },
+            {
+                "url": "assets/Terrain/Deco_2.png",
+                "type": "image",
+                "key": "Deco_2"
+            },
+            {
+                "url": "assets/Terrain/Deco_3.png",
+                "type": "image",
+                "key": "Deco_3"
+            },
+            {
+                "url": "assets/Terrain/Deco_4.png",
+                "type": "image",
+                "key": "Deco_4"
+            },
+            {
+                "url": "assets/Terrain/Deco_5.png",
+                "type": "image",
+                "key": "Deco_5"
+            },
+            {
+                "url": "assets/dino.png",
+                "key": "dino",
+                "type": "image"
+            },
+            {
+                "url": "src/Animations/Enemy.json",
+                "type": "animation",
+                "key": "Enemy"
+            },
+            {
+                "url": "assets/Img/Fondo_Juego.webp",
+                "type": "image",
+                "key": "Fondo_Juego"
+            },
+            {
+                "url": "assets/Img/Fondo_tenebroso.jpg",
+                "type": "image",
+                "key": "Fondo_tenebroso"
+            },
+            {
+                "url": "assets/Img/Fondo_Waterfall.png",
+                "type": "image",
+                "key": "Fondo_Waterfall"
+            },
+            {
+                "url": "assets/Sprites/Particle/Little purple fire.png",
+                "frameConfig": {
+                    "frameWidth": 32,
+                    "frameHeight": 32,
+                    "startFrame": 0,
+                    "endFrame": -1,
+                    "spacing": 0,
+                    "margin": 0
+                },
+                "type": "spritesheet",
+                "key": "Little purple fire"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00000.png",
+                "type": "image",
+                "key": "PlantPosion_00000"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00001.png",
+                "type": "image",
+                "key": "PlantPosion_00001"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00002.png",
+                "type": "image",
+                "key": "PlantPosion_00002"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00003.png",
+                "type": "image",
+                "key": "PlantPosion_00003"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00004.png",
+                "type": "image",
+                "key": "PlantPosion_00004"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00005.png",
+                "type": "image",
+                "key": "PlantPosion_00005"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00006.png",
+                "type": "image",
+                "key": "PlantPosion_00006"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00007.png",
+                "type": "image",
+                "key": "PlantPosion_00007"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00008.png",
+                "type": "image",
+                "key": "PlantPosion_00008"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00009.png",
+                "type": "image",
+                "key": "PlantPosion_00009"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00010.png",
+                "type": "image",
+                "key": "PlantPosion_00010"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00011.png",
+                "type": "image",
+                "key": "PlantPosion_00011"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00012.png",
+                "type": "image",
+                "key": "PlantPosion_00012"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00013.png",
+                "type": "image",
+                "key": "PlantPosion_00013"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00014.png",
+                "type": "image",
+                "key": "PlantPosion_00014"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00015.png",
+                "type": "image",
+                "key": "PlantPosion_00015"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00016.png",
+                "type": "image",
+                "key": "PlantPosion_00016"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00017.png",
+                "type": "image",
+                "key": "PlantPosion_00017"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00018.png",
+                "type": "image",
+                "key": "PlantPosion_00018"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00019.png",
+                "type": "image",
+                "key": "PlantPosion_00019"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00020.png",
+                "type": "image",
+                "key": "PlantPosion_00020"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00021.png",
+                "type": "image",
+                "key": "PlantPosion_00021"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00022.png",
+                "type": "image",
+                "key": "PlantPosion_00022"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00023.png",
+                "type": "image",
+                "key": "PlantPosion_00023"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00024.png",
+                "type": "image",
+                "key": "PlantPosion_00024"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00025.png",
+                "type": "image",
+                "key": "PlantPosion_00025"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00026.png",
+                "type": "image",
+                "key": "PlantPosion_00026"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00027.png",
+                "type": "image",
+                "key": "PlantPosion_00027"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00028.png",
+                "type": "image",
+                "key": "PlantPosion_00028"
+            },
+            {
+                "url": "assets/Sprites/Tokens/PlantPosion_00029.png",
+                "type": "image",
+                "key": "PlantPosion_00029"
+            },
+            {
+                "url": "assets/Terrain/Plataforma_1.png",
+                "type": "image",
+                "key": "Plataforma_1"
+            },
+            {
+                "url": "assets/Terrain/Plataforma_2.png",
+                "type": "image",
+                "key": "Plataforma_2"
+            },
+            {
+                "url": "assets/Terrain/Plataforma_3.png",
+                "type": "image",
+                "key": "Plataforma_3"
+            },
+            {
+                "url": "assets/Terrain/Plataforma_4.png",
+                "type": "image",
+                "key": "Plataforma_4"
+            },
+            {
+                "url": "assets/Terrain/Plataforma_5.png",
+                "type": "image",
+                "key": "Plataforma_5"
+            },
+            {
+                "url": "assets/Terrain/Plataforma_6.png",
+                "type": "image",
+                "key": "Plataforma_6"
+            },
+            {
+                "url": "src/Animations/Player.json",
+                "type": "animation",
+                "key": "Player"
+            },
+            {
+                "url": "assets/Img/Rain.png",
+                "type": "image",
+                "key": "Rain"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00000.png",
+                "type": "image",
+                "key": "SlimeBasic_00000"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00001.png",
+                "type": "image",
+                "key": "SlimeBasic_00001"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00002.png",
+                "type": "image",
+                "key": "SlimeBasic_00002"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00003.png",
+                "type": "image",
+                "key": "SlimeBasic_00003"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00004.png",
+                "type": "image",
+                "key": "SlimeBasic_00004"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00005.png",
+                "type": "image",
+                "key": "SlimeBasic_00005"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00006.png",
+                "type": "image",
+                "key": "SlimeBasic_00006"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00007.png",
+                "type": "image",
+                "key": "SlimeBasic_00007"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00008.png",
+                "type": "image",
+                "key": "SlimeBasic_00008"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00009.png",
+                "type": "image",
+                "key": "SlimeBasic_00009"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00010.png",
+                "type": "image",
+                "key": "SlimeBasic_00010"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00011.png",
+                "type": "image",
+                "key": "SlimeBasic_00011"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00012.png",
+                "type": "image",
+                "key": "SlimeBasic_00012"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00013.png",
+                "type": "image",
+                "key": "SlimeBasic_00013"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00014.png",
+                "type": "image",
+                "key": "SlimeBasic_00014"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00015.png",
+                "type": "image",
+                "key": "SlimeBasic_00015"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00016.png",
+                "type": "image",
+                "key": "SlimeBasic_00016"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00017.png",
+                "type": "image",
+                "key": "SlimeBasic_00017"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00018.png",
+                "type": "image",
+                "key": "SlimeBasic_00018"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00019.png",
+                "type": "image",
+                "key": "SlimeBasic_00019"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00020.png",
+                "type": "image",
+                "key": "SlimeBasic_00020"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00021.png",
+                "type": "image",
+                "key": "SlimeBasic_00021"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00022.png",
+                "type": "image",
+                "key": "SlimeBasic_00022"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00023.png",
+                "type": "image",
+                "key": "SlimeBasic_00023"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00024.png",
+                "type": "image",
+                "key": "SlimeBasic_00024"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00025.png",
+                "type": "image",
+                "key": "SlimeBasic_00025"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00026.png",
+                "type": "image",
+                "key": "SlimeBasic_00026"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00027.png",
+                "type": "image",
+                "key": "SlimeBasic_00027"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00028.png",
+                "type": "image",
+                "key": "SlimeBasic_00028"
+            },
+            {
+                "url": "assets/Sprites/Enemy/SlimeBasic_00029.png",
+                "type": "image",
+                "key": "SlimeBasic_00029"
+            },
+            {
+                "url": "assets/Img/Title.webp",
+                "type": "image",
+                "key": "Title"
+            },
+            {
+                "url": "src/Animations/Token.json",
+                "type": "animation",
+                "key": "Token"
+            },
+            {
+                "url": "assets/Img/Water.jpg",
+                "type": "image",
+                "key": "Water"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

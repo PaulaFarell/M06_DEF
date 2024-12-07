@@ -1,0 +1,174 @@
+{
+    "anims": [
+        {
+            "key": "SlimeSlimeBasic",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "SlimeBasic_00000",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00019",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00020",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00021",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00022",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00023",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00024",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00025",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00026",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00027",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00028",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "SlimeBasic_00029",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": true
+    }
+}

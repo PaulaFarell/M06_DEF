@@ -1,0 +1,284 @@
+{
+    "anims": [
+        {
+            "key": "PlayerIdle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "Chara - BlueIdle00000",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara - BlueIdle00001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara - BlueIdle00002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara - BlueIdle00003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara - BlueIdle00004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara - BlueIdle00005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara - BlueIdle00006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara - BlueIdle00007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara - BlueIdle00008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara - BlueIdle00009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara - BlueIdle00010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara - BlueIdle00011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara - BlueIdle00012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara - BlueIdle00013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara - BlueIdle00014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara - BlueIdle00015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara - BlueIdle00016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara - BlueIdle00017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara - BlueIdle00018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara - BlueIdle00019",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "PlayerWalk",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "Chara_BlueWalk00000",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara_BlueWalk00001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara_BlueWalk00002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara_BlueWalk00003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara_BlueWalk00004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara_BlueWalk00005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara_BlueWalk00006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara_BlueWalk00007",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara_BlueWalk00008",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara_BlueWalk00009",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara_BlueWalk00010",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara_BlueWalk00011",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara_BlueWalk00012",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara_BlueWalk00013",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara_BlueWalk00014",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara_BlueWalk00015",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara_BlueWalk00016",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara_BlueWalk00017",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara_BlueWalk00018",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "Chara_BlueWalk00019",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        },
+        {
+            "key": "PlayerJump",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "CharaWizardJump_00000",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "CharaWizardJump_00001",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "CharaWizardJump_00002",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "CharaWizardJump_00003",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "CharaWizardJump_00004",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "CharaWizardJump_00005",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "CharaWizardJump_00006",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "CharaWizardJump_00007",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1,
+            "randomFrame": false
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    },
+    "settings": {
+        "sourceLang": "JAVA_SCRIPT",
+        "esModule": false,
+        "generateCode": true
+    }
+}

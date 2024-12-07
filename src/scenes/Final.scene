@@ -1,0 +1,58 @@
+{
+    "id": "1ca2a3c1-7c1d-490a-beca-b14efc3a6e48",
+    "sceneType": "SCENE",
+    "settings": {
+        "exportClass": true,
+        "autoImport": true,
+        "importFileExtension": true,
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Final",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "e02b55d6-7357-4646-a23b-4c789f45cba2",
+            "label": "fondo_Juego",
+            "texture": {
+                "key": "Fondo_Juego"
+            },
+            "x": 642,
+            "y": 356,
+            "scaleX": 0.8,
+            "scaleY": 0.8
+        },
+        {
+            "type": "Text",
+            "id": "8243c41a-dae8-40c7-9694-b7a9ca9d4326",
+            "label": "Titulo_Final",
+            "displayName": "Titulo_Final",
+            "x": 115,
+            "y": 190,
+            "text": "GRACIAS POR JUGAR",
+            "fontSize": "100px",
+            "fontStyle": "bold"
+        },
+        {
+            "type": "Text",
+            "id": "6cb9feee-6cc3-4782-ac6c-fa10c21a3fde",
+            "label": "Titulo_Final_1",
+            "displayName": "Titulo_Final",
+            "x": 568,
+            "y": 379,
+            "text": "MENÚ",
+            "fontSize": "60px",
+            "fontStyle": "bold",
+            "color": "#fdfab1ff"
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor - Scene Editor",
+        "url": "https://phaser.io/editor",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "id": "c5b3fab1-fcfc-4a4f-89dc-7a49bfe21922",
+    "sceneType": "PREFAB",
+    "settings": {
+        "exportClass": true,
+        "autoImport": true,
+        "importFileExtension": true,
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "ScriptNode",
+            "id": "953e3b40-9f03-4afe-9253-96f2268b3ed5",
+            "label": "scriptnode_1",
+            "list": [
+                {
+                    "prefabId": "c5b3fab1-fcfc-4a4f-89dc-7a49bfe21922",
+                    "id": "c20e5023-e374-4de8-8351-d6c9e2dd2898",
+                    "label": "slime"
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor - Scene Editor",
+        "url": "https://phaser.io/editor",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    },
+    "prefabProperties": [
+        {
+            "name": "points",
+            "label": "points",
+            "tooltip": "",
+            "defValue": 0,
+            "customDefinition": false,
+            "type": {
+                "id": "number"
+            }
+        },
+        {
+            "name": "TextureConfig",
+            "label": "TextureConfig",
+            "tooltip": "",
+            "defValue": "",
+            "customDefinition": false,
+            "type": {
+                "id": "texture-config"
+            }
+        },
+        {
+            "name": "AnimationKey",
+            "label": "AnimationKey",
+            "tooltip": "",
+            "defValue": "",
+            "customDefinition": false,
+            "type": {
+                "id": "animation-key"
+            }
+        }
+    ]
+}

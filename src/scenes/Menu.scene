@@ -1,0 +1,61 @@
+{
+    "id": "2f9979ca-9ff3-4ed5-b0b7-aa46a387371f",
+    "sceneType": "SCENE",
+    "settings": {
+        "exportClass": true,
+        "autoImport": true,
+        "importFileExtension": true,
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Menu",
+        "borderWidth": 1280,
+        "borderHeight": 720
+    },
+    "displayList": [
+        {
+            "type": "Layer",
+            "id": "267bb58b-7a9f-48f3-b53f-1d728d399a35",
+            "label": "Title",
+            "displayName": "Title",
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "c084b858-edfb-48bd-a86c-0a64b16898e1",
+                    "label": "title",
+                    "texture": {
+                        "key": "Title"
+                    },
+                    "x": 640,
+                    "y": 443,
+                    "scaleX": 1.25,
+                    "scaleY": 1.25
+                }
+            ]
+        },
+        {
+            "type": "Layer",
+            "id": "6eec2a2b-cb02-400f-8186-c8dca6153e56",
+            "label": "Text",
+            "list": [
+                {
+                    "type": "Text",
+                    "id": "15afc13a-ed08-4d66-b9cb-ccedca31216d",
+                    "label": "Play_Text",
+                    "displayName": "Play_Text",
+                    "x": 563,
+                    "y": 497,
+                    "text": "PLAY",
+                    "fontSize": "64px",
+                    "fontStyle": "bold"
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor - Scene Editor",
+        "url": "https://phaser.io/editor",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 5
+    }
+}
