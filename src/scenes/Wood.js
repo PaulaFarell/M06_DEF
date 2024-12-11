@@ -298,7 +298,7 @@ export default class Wood extends Phaser.Scene {
 		deco_9.scaleY = 0.1;
 
 		// chara___BlueIdle00000
-		const chara___BlueIdle00000 = this.physics.add.image(67, 638, "Chara - BlueIdle00000");
+		const chara___BlueIdle00000 = this.physics.add.image(150, 538, "Chara - BlueIdle00000");
 		chara___BlueIdle00000.scaleX = 0.3;
 		chara___BlueIdle00000.scaleY = 0.3;
 		chara___BlueIdle00000.body.gravity.y = 10;
