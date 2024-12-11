@@ -19,7 +19,7 @@ window.addEventListener("load", function () {
             default: 'arcade', // Asegúrate de usar el sistema físico 'arcade'
             arcade: {
                 gravity: { y: 150 }, // Si no necesitas gravedad global
-                debug: false // Cambia a true si deseas depurar las físicas
+                debug: true // Cambia a true si deseas depurar las físicas
             }
         },
     });

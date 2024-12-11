@@ -162,40 +162,49 @@ export default class Waterfall extends Phaser.Scene {
 		deco_2.scaleY = 0.2;
 		deco_2.flipX = true;
 
-		// plataforma_1
-		const plataforma_1 = this.add.tileSprite(163, 724, 2048, 499, "Plataforma_1");
-		plataforma_1.scaleX = 0.2;
-		plataforma_1.scaleY = 0.2;
+		const platforms = this.physics.add.staticGroup();
 
-		// plataforma_2
-		const plataforma_2 = this.add.tileSprite(467, 549, 2048, 498, "Plataforma_2");
-		plataforma_2.scaleX = 0.2;
-		plataforma_2.scaleY = 0.2;
+		platforms.create(163, 724,'Plataforma_1').setSize(500, 100).setScale(0.25);
 
+		// // plataforma_1
+		// const plataforma_1 = this.add.tileSprite(163, 724, 2048, 499, "Plataforma_1");
+		// plataforma_1.scaleX = 0.2;
+		// plataforma_1.scaleY = 0.2;
+		platforms.create(467, 549,'Plataforma_2').setSize(500, 100).setScale(0.25);
+
+		// // plataforma_2
+		// const plataforma_2 = this.add.tileSprite(467, 549, 2048, 498, "Plataforma_2");
+		// plataforma_2.scaleX = 0.2;
+		// plataforma_2.scaleY = 0.2;
+		platforms.create(128, 550,'Plataforma_3').setSize(500, 100).setScale(0.25);
 		// plataforma_3
-		const plataforma_3 = this.add.tileSprite(128, 550, 473, 533, "Plataforma_3");
-		plataforma_3.scaleX = 0.2;
-		plataforma_3.scaleY = 0.2;
+		// const plataforma_3 = this.add.tileSprite(128, 550, 473, 533, "Plataforma_3");
+		// plataforma_3.scaleX = 0.2;
+		// plataforma_3.scaleY = 0.2;
+		platforms.create(896, 646,'Plataforma_1').setSize(500, 100).setScale(0.25);
 
 		// plataforma
-		const plataforma = this.add.tileSprite(896, 646, 2048, 499, "Plataforma_1");
-		plataforma.scaleX = 0.2;
-		plataforma.scaleY = 0.2;
+		// const plataforma = this.add.tileSprite(896, 646, 2048, 499, "Plataforma_1");
+		// plataforma.scaleX = 0.2;
+		// plataforma.scaleY = 0.2;
+		platforms.create(1083, 294,'Plataforma_1').setSize(500, 100).setScale(0.25);
 
 		// plataforma_4
-		const plataforma_4 = this.add.tileSprite(1083, 294, 2048, 499, "Plataforma_1");
-		plataforma_4.scaleX = 0.2;
-		plataforma_4.scaleY = 0.2;
+		// const plataforma_4 = this.add.tileSprite(1083, 294, 2048, 499, "Plataforma_1");
+		// plataforma_4.scaleX = 0.2;
+		// plataforma_4.scaleY = 0.2;
+		platforms.create(757, 392,'Plataforma_3').setSize(500, 100).setScale(0.25);
 
 		// plataforma_5
-		const plataforma_5 = this.add.tileSprite(757, 392, 473, 533, "Plataforma_3");
-		plataforma_5.scaleX = 0.2;
-		plataforma_5.scaleY = 0.2;
+		// const plataforma_5 = this.add.tileSprite(757, 392, 473, 533, "Plataforma_3");
+		// plataforma_5.scaleX = 0.2;
+		// plataforma_5.scaleY = 0.2;
+		platforms.create(1308, 687,'Plataforma_2').setSize(500, 100).setScale(0.25);
 
 		// plataforma_6
-		const plataforma_6 = this.add.tileSprite(1308, 687, 2048, 498, "Plataforma_2");
-		plataforma_6.scaleX = 0.2;
-		plataforma_6.scaleY = 0.2;
+		// const plataforma_6 = this.add.tileSprite(1308, 687, 2048, 498, "Plataforma_2");
+		// plataforma_6.scaleX = 0.2;
+		// plataforma_6.scaleY = 0.2;
 
 		// plataforma_8
 		const plataforma_8 = this.add.tileSprite(1581, 620, 1417, 580, "Plataforma_5");
@@ -329,12 +338,12 @@ export default class Waterfall extends Phaser.Scene {
 		slimeBasic_4.scaleY = 0.2;
 		slimeBasic_4.play("SlimeSlimeBasic");
 
-		// lists
-		const platforms = this.physics.add.staticGroup();
+		// // lists
+		// const platforms = this.physics.add.staticGroup();
 
-		[plataforma_22, plataforma_21, plataforma_20, plataforma_19, plataforma_18, plataforma_17, plataforma_16, plataforma_15, plataforma_14, plataforma_13, plataforma_12, plataforma_11, plataforma_10, plataforma_9, plataforma_7, plataforma_8, plataforma_6, plataforma_5, plataforma_4, plataforma, plataforma_3, plataforma_2, plataforma_1].forEach(plataforma => {
-    		platforms.add(plataforma);
-		});
+		// [plataforma_22, plataforma_21, plataforma_20, plataforma_19, plataforma_18, plataforma_17, plataforma_16, plataforma_15, plataforma_14, plataforma_13, plataforma_12, plataforma_11, plataforma_10, plataforma_9, plataforma_7, plataforma_8, plataforma_6, plataforma_5, plataforma_4, plataforma, plataforma_3, plataforma_2, plataforma_1].forEach(plataforma => {
+    	// 	platforms.add(plataforma);
+		// });
 
 		// collider
 		console.log(platforms)
@@ -374,6 +383,8 @@ create() {
     this.spaceKey.on('down', () => {
         this.scene.start('Final');
     });
+
+	this.physics.add.collider(this.chara___BlueIdle00000, this.platforms);
 }
 update () {
 	if (this.right_key.isDown) {
