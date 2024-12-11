@@ -166,18 +166,19 @@ export default class Wood extends Phaser.Scene {
 		deco_1.scaleY = 0.2;
 
     	const platforms = this.physics.add.staticGroup();
-		// plataforma_1
-		platforms.create('')
-		const plataforma_1 = this.add.tileSprite(157, 719, 2048, 499, "Plataforma_1");
-		plataforma_1.setInteractive(new Phaser.Geom.Rectangle(0, 0, 2048, 499), Phaser.Geom.Rectangle.Contains);
-		plataforma_1.scaleX = 0.2;
-		plataforma_1.scaleY = 0.2;
+		// // plataforma_1
+		platforms.create(157, 719,'Plataforma_1').setSize(500, 100).setScale(0.25);
 
+		// const plataforma_1 = this.add.tileSprite(157, 719, 2048, 499, "Plataforma_1");
+		// plataforma_1.setInteractive(new Phaser.Geom.Rectangle(0, 0, 2048, 499), Phaser.Geom.Rectangle.Contains);
+		// plataforma_1.scaleX = 0.2;
+		// plataforma_1.scaleY = 0.2;
+		platforms.create(483, 494,'Plataforma_3').setSize(90, 90).setScale(0.25);
 		// plataforma_3
-		const plataforma_3 = this.add.tileSprite(483, 494, 473, 533, "Plataforma_3");
-		plataforma_3.setInteractive(new Phaser.Geom.Rectangle(0, 0, 473, 533), Phaser.Geom.Rectangle.Contains);
-		plataforma_3.scaleX = 0.2;
-		plataforma_3.scaleY = 0.2;
+		// const plataforma_3 = this.add.tileSprite(483, 494, 473, 533, "Plataforma_3");
+		// plataforma_3.setInteractive(new Phaser.Geom.Rectangle(0, 0, 473, 533), Phaser.Geom.Rectangle.Contains);
+		// plataforma_3.scaleX = 0.2;
+		// plataforma_3.scaleY = 0.2;
 
 		// plataforma_2
 		const plataforma_2 = this.add.tileSprite(611, 660, 2048, 499, "Plataforma_1");
@@ -326,7 +327,7 @@ export default class Wood extends Phaser.Scene {
 		chara___BlueIdle00000.body.bounce.y = 0.2;
 		chara___BlueIdle00000.body.collideWorldBounds = true;
 		chara___BlueIdle00000.body.onWorldBounds = true;
-		chara___BlueIdle00000.body.setSize(512, 512, false);
+		chara___BlueIdle00000.body.setSize(190, 419, true);
 
 		// slimeBasic_00000
 		const slimeBasic_00000 = this.add.sprite(665, 600, "SlimeBasic_00000");
@@ -365,10 +366,10 @@ export default class Wood extends Phaser.Scene {
 		slimeBasic_4.play("SlimeSlimeBasic");
 
 		// lists
-		const platforms = [plataforma_23, plataforma_22, plataforma_21, plataforma_20, plataforma_19, plataforma_18, plataforma_17, plataforma_15, plataforma_16, plataforma_14, plataforma_13, plataforma_12, plataforma_11, plataforma_10, plataforma_9, plataforma_8, plataforma, plataforma_7, plataforma_6, plataforma_5, plataforma_4, plataforma_2, plataforma_3, plataforma_1];
+		// const platforms = [plataforma_23, plataforma_22, plataforma_21, plataforma_20, plataforma_19, plataforma_18, plataforma_17, plataforma_15, plataforma_16, plataforma_14, plataforma_13, plataforma_12, plataforma_11, plataforma_10, plataforma_9, plataforma_8, plataforma, plataforma_7, plataforma_6, plataforma_5, plataforma_4, plataforma_2, plataforma_3, plataforma_1];
 
 		// collider
-		this.physics.add.collider(chara___BlueIdle00000, platforms);
+		// this.physics.add.collider(chara___BlueIdle00000, platforms);
 
 		this.chara___BlueIdle00000 = chara___BlueIdle00000;
 		this.left_key = left_key;
@@ -401,15 +402,15 @@ export default class Wood extends Phaser.Scene {
 	// Habilitar física en el personaje
     this.physics.add.existing(this.chara___BlueIdle00000);
     this.chara___BlueIdle00000.setCollideWorldBounds(true); // Evitar que salga de la pantalla
-
+	this.physics.add.collider(this.chara___BlueIdle00000, this.platforms);
 
     // Configuración de la tecla espacio
-    this.spaceKey = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.SPACE);
+    // this.spaceKey = this.input.keyboard.addKey(Phaser.Input.Keyboard.KeyCodes.SPACE);
 
-    // Agregar un evento que escuche la tecla
-    this.spaceKey.on('down', () => {
-        this.scene.start('Waterfall');
-    }); // <- Aquí cerramos correctamente el paréntesis del evento `on`
+    // // Agregar un evento que escuche la tecla
+    // this.spaceKey.on('down', () => {
+    //     this.scene.start('Waterfall');
+    // }); // <- Aquí cerramos correctamente el paréntesis del evento `on`
 
 } // <- Aquí cerramos correctamente el método `create`
 
@@ -420,7 +421,8 @@ update () {
 		this.chara___BlueIdle00000.setVelocityX(0);
 	}
 	if (this.up_key.isDown && this.chara___BlueIdle00000.body.touching.down) {
-		this.chara___BlueIdle00000.setVelocityY(330)
+	// if (this.up_key.isDown) {
+		this.chara___BlueIdle00000.setVelocityY(-150)
 	}
 	if (this.left_key.isDown) {
 		this.chara___BlueIdle00000.setVelocityX(-160)
